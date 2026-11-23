@@ -90,7 +90,12 @@ Required libraries: pandas, numpy, matplotlib, and seaborn.
 
 ## 11. Team Contributions
 
-Team member names and individual contributions should be added here.
+| Team Member | Contribution |
+|---|---|
+| Amal Abdullah | Data Collection and Preparation |
+| Lama Alloush | Data Cleaning and Exploratory Data Analysis |
+| Lamis Mohammed | Data Visualization and Statistical Analysis |
+| Sarah Saeed | Results Interpretation and Project Documentation |
 
 ## 12. Project Structure
 
